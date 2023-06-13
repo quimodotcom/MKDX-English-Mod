@@ -3,9 +3,11 @@
 This mod will translate Mario Kart Arcade GP DX from Japanese to English.  
 Note: This mod is still very much a work in progress!
 
+THIS MOD IS EXPERIENCING BUGS. A LOT. PLEASE BACKUP THE ORIGINAL GAME FILES BEFORE PATCHING!
+
 ## Installing
 
-* Make sure you have MKDX version 1.10.22!
+* Version doesn't matter. All current versions are compaitible
 * Download latest release
 * Unzip
 * Run the patcher
