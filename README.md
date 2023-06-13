@@ -7,7 +7,7 @@ THIS MOD IS EXPERIENCING BUGS. A LOT. PLEASE BACKUP THE ORIGINAL GAME FILES BEFO
 
 ## Installing
 
-* Version doesn't matter. All current versions are compaitible
+* Version doesn't matter. All current versions are compatible
 * Download latest release
 * Unzip
 * Run the patcher
